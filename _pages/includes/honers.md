@@ -1,0 +1,11 @@
+# 🎖 Honors and Awards
+- **2021‑2024**: Core Contributor of Microsoft Azure AI Document Intelligence, Outstanding Contribution Award 📍 Microsoft
+- **2023**: 2nd Prize, Visual Prompt Tuning Challenge @ CVPR 2023 HIT Workshop (CNY 200,000 bonus) (2/200+) 📍 China
+- **2022**: 2nd Prize, Panoptic Scene Graph Challenge @ ECCV 2022 SenseHuman Workshop (CNY 100,000 bonus) (2/100+) 📍 China
+- **2021**: Provincial excellent graduate (Top 1%) 📍 Anhui, China
+- **2020**: Outstanding Student Scholarship Gold Award 📍 USTC
+- **2019**: Tang Lixin Scholarship (Annual funding of CNY 10,000 until Ph.D., Top 1%) 📍 USTC
+- **2019**: Suzhou Yucai Scholarship (Top 10 undergraduates per year) 📍 USTC
+- **2018**: Outstanding Student Scholarship Gold Award 📍 USTC
+- **2018**: First prize for freshman seminar papers 📍 USTC
+- **2017‑2021**: Cyrus Tang Scholarship (Awarded to college students who are both good in academics and enthusiastic about social welfare) 📍 USTC
