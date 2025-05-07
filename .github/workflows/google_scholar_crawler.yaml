@@ -1,4 +1,4 @@
-name: Get Citation Data Workflow
+name: Get Citation Data
 
 on: 
  page_build: 
