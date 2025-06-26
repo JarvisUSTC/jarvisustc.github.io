@@ -1,6 +1,7 @@
 # 🔥 News
 
 <ul>
+<li><b>2025.06</b>: 🎉 Our paper on VLM robustness, "<a href="https://arxiv.org/abs/2504.01308"><b>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</b></a>," has been accepted by ICCV 2025! See you in Hawaii!
 <li><b>2025.05</b>: 🔥 Our latest research, <a href="https://arxiv.org/abs/2505.19630"><b>DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue</b></a>, is now available. This work highlights a crucial principle in Human-Agent Interaction: Agents must proactively request necessary information to excel, as humans may not always volunteer it. This "Agent-must-ask" paradigm is central to DoctorAgent-RL's ability to facilitate better task completion in complex multi-turn dialogues. </li>
 <li><b>2025.04</b>: 🎉 Thrilled to kick off my new internship with the ByteDance Seed Team!</li>
 <li><b>2025.04</b>: 🔥 Our latest work on VLM robustness, "<a href="https://arxiv.org/abs/2504.01308"><b>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</b></a>," has been released on Arxiv. We've open-sourced the <a href="https://huggingface.co/datasets/Jarvis1111/RobustVLGuard"><b>Robust-VLGuard dataset</b></a> and <a href="https://github.com/JarvisUSTC/DiffPure-RobustVLM"><b>DiffPure-VLM defense</b></a>.</li>
