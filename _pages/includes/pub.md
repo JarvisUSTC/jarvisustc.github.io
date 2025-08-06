@@ -7,7 +7,7 @@
 3. ``arXiv 2025`` <font color="red">(Cutting-edge Project)</font> [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948), DeepSeek AI [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social&label=DeepSeek-R1+Stars)](https://github.com/deepseek-ai/DeepSeek-R1)
 4. ``arXiv 2024`` <font color="red">(Cutting-edge Project)</font> [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), DeepSeek-AI [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social&label=DeepSeek-V3+Stars)](https://github.com/deepseek-ai/DeepSeek-V3)
 5. ``arXiv 2024`` <font color="red">(Cutting-edge Project)</font> [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/abs/2412.10302), Zhiyu Wu\*, Xiaokang Chen\*, Zizheng Pan\*, Xingchao Liu\*, Wen Liu\*, Damai Dai, Huazuo Gao, Yiyang Ma, Chengyue Wu, Bingxuan Wang, Zhenda Xie, Yu Wu, Kai Hu, <strong>Jiawei Wang</strong>, Yaofeng Sun, Yukun Li, Yishi Piao, Kang Guan, Aixin Liu, Xin Xie, Yuxiang You, Kai Dong, Xingkai Yu, Haowei Zhang, Liang Zhao, Yisong Wang, Chong Ruan$^✉️$ [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2?style=social&label=DeepSeek-VL2+Stars)](https://github.com/deepseek-ai/DeepSeek-VL2)
-6. ``arXiv 2025`` [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/abs/2505.19630), Yichun Feng\*, <strong>Jiawei Wang</strong>\*, Lu Zhou, Yixue Li$^✉️$ [![](https://img.shields.io/github/stars/JarvisUSTC/DoctorAgent-RL?style=social&label=DoctorAgent-RL+Stars)](https://github.com/JarvisUSTC/DoctorAgent-RL)
+6. ``Submitted to AAAI 2026`` [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/abs/2505.19630), Yichun Feng\*, <strong>Jiawei Wang</strong>\*, Lu Zhou, Yixue Li$^✉️$ [![](https://img.shields.io/github/stars/JarvisUSTC/DoctorAgent-RL?style=social&label=DoctorAgent-RL+Stars)](https://github.com/JarvisUSTC/DoctorAgent-RL)
 
 ## 📄 Document Intelligence
 1. ``Pattern Recognition 2025`` <font color="red">(SCI Q1 Journal)</font> [UniHDSA: A Unified Relation Prediction Approach for Hierarchical Document Structure Analysis](https://arxiv.org/abs/2503.15893), <strong>Jiawei Wang</strong>$^✉️$, Kai Hu, Qiang Huo [![](https://img.shields.io/github/stars/microsoft/CompHRDoc?style=social&label=CompHRDoc+Stars)](https://github.com/microsoft/CompHRDoc/tree/main/UniHDSA)
@@ -32,3 +32,4 @@
 - ICDAR Reviewer (2023, 2024)
 - IJDAR Reviewer (2024)
 - ACM MM Reviewer (2025)
+- AAAI Reviewer (2026)
