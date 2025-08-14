@@ -1,7 +1,7 @@
 # 🔥 News
 
 <ul>
-<li><b>2025.08</b>: 🔥 We introduce <a href="https://arxiv.org/pdf/2508.07999">WideSearch</a>: a new benchmark to test if AI agents can handle large-scale, repetitive information gathering — the real bottleneck in productivity. 🚧 Please find all details in our <a href="https://widesearch-seed.github.io/">project page</a>.</li>
+<li><b>2025.08</b>: 🔥 We introduce <a href="https://arxiv.org/pdf/2508.07999"><b>WideSearch</b></a>: a new benchmark to test if AI agents can handle large-scale, repetitive information gathering — the real bottleneck in productivity. 🚧 Please find all details in our <a href="https://widesearch-seed.github.io/"><b>project page</b></a>.</li>
 <li><b>2025.06</b>: 🎉 Our paper on VLM robustness, "<a href="https://arxiv.org/abs/2504.01308"><b>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</b></a>," has been accepted by ICCV 2025! See you in Hawaii!</li>
 <li><b>2025.05</b>: 🔥 Our latest research, <a href="https://arxiv.org/abs/2505.19630"><b>DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue</b></a>, is now available. This work highlights a crucial principle in Human-Agent Interaction: Agents must proactively request necessary information to excel, as humans may not always volunteer it. This "Agent-must-ask" paradigm is central to DoctorAgent-RL's ability to facilitate better task completion in complex multi-turn dialogues. </li>
 <li><b>2025.04</b>: 🎉 Thrilled to kick off my new internship with the ByteDance Seed Team!</li>
