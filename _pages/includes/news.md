@@ -1,7 +1,7 @@
 # 🔥 News
 
 <ul>
-<li><b>2025.09</b>: 🔥 We introduce <a href="https://huggingface.co/papers/2509.09265"><b>EMPG</b></a>: a new framework that solves the credit assignment bottleneck in long-horizon agent training by fixing a fundamental flaw in policy gradients. 🚧 Please find all details in our <a href="https://empgseed-seed.github.io/"><b>project page</b></a>.
+<li><b>2025.09</b>: 🔥 We introduce <a href="https://huggingface.co/papers/2509.09265"><b>EMPG</b></a>: a new framework that solves the credit assignment bottleneck in long-horizon agent training by fixing a fundamental flaw in policy gradients. 🚧 Please find all details in our <a href="https://empgseed-seed.github.io/"><b>project page</b></a>.</li>
 <li><b>2025.09</b>: 🎉 We're excited to have contributed to <a href="https://mcpmark.ai/"><b>MCP Mark</b></a>, a solid benchmark for stress-testing comprehensive MCP use. We have open-sourced all details in <a href="https://github.com/eval-sys/mcpmark/">Github</a>. Welcome to join us!</li>
 <li><b>2025.08</b>: 🔥 We introduce <a href="https://arxiv.org/pdf/2508.07999"><b>WideSearch</b></a>: a new benchmark to test if AI agents can handle large-scale, repetitive information gathering — the real bottleneck in productivity. 🚧 Please find all details in our <a href="https://widesearch-seed.github.io/"><b>project page</b></a>.</li>
 <li><b>2025.06</b>: 🎉 Our paper on VLM robustness, "<a href="https://arxiv.org/abs/2504.01308"><b>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</b></a>," has been accepted by ICCV 2025! See you in Hawaii!</li>
