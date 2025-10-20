@@ -10,7 +10,10 @@
 - **[Submitted to ICLR 2026]** [WideSearch: Benchmarking Agentic Broad Info-Seeking](https://arxiv.org/abs/2508.07999) <br>
   Ryan Wong\*, <strong>Jiawei Wang</strong>\*, Junjie Zhao, Li Chen, Yan Gao, Long Zhang, Xuan Zhou, Zuo Wang, Kai Xiang, Ge Zhang, Wenhao Huang, Yang Wang$^✉️$, Ke Wang$^✉️$ <br>
   [![](https://img.shields.io/github/stars/ByteDance-Seed/WideSearch?style=social&label=WideSearch+Stars)](https://github.com/ByteDance-Seed/WideSearch)[![](https://img.shields.io/badge/Project-Page-blue)](https://widesearch-seed.github.io/)
-- **[Submitted to AAAI 2026]** [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/abs/2505.19630) <br>
+- **[Submitted to ICLR 2026]** [MCPMark: Stress-Testing Comprehensive MCP Use](https://arxiv.org/abs/2509.24002) <br>
+  Zijian Wu, Xiangyan Liu, Xinyuan Zhang, Lingjun Chen, Fanqing Meng, Lingxiao Du, Yiran Zhao, Fanshi Zhang, Yaoqi Ye, <strong>Jiawei Wang</strong>, Zirui Wang, Jinjie Ni, Yufan Yang, Arvin Xu, Michael Qizhe Shieh <br>
+  [![](https://img.shields.io/github/stars/eval-sys/mcpmark?style=social&label=mcpmark+Stars)](https://github.com/eval-sys/mcpmark)[![](https://img.shields.io/badge/Project-Page-blue)](https://mcpmark.ai/)
+- **[Submitted to ICASSP 2026]** [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/abs/2505.19630) <br>
   Yichun Feng\*, <strong>Jiawei Wang</strong>\*, Lu Zhou, Yixue Li$^✉️$ <br>
   [![](https://img.shields.io/github/stars/JarvisUSTC/DoctorAgent-RL?style=social&label=DoctorAgent-RL+Stars)](https://github.com/JarvisUSTC/DoctorAgent-RL)
 - **[ICCV 2025]** <font color="red">(CCF-A)</font> [Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks](https://arxiv.org/abs/2504.01308) <br>
@@ -18,9 +21,6 @@
   [![](https://img.shields.io/github/stars/JarvisUSTC/DiffPure-RobustVLM?style=social&label=DiffPure-RobustVLM+Stars)](https://github.com/JarvisUSTC/DiffPure-RobustVLM)
 - **[GigaScience 2025]** [A Scalable Retrieval-Augmented Reasoning Framework Based on Large Language Models for Knowledge Mining in Biomedical Literature](https://arxiv.org/abs/2503.23029) <br>
   Yichun Feng, <strong>Jiawei Wang</strong>, Lu Zhou, Yixue Li$^✉️$
-- **[arXiv 2025]** <font color="red">(Cutting-edge Project)</font> [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) <br>
-  DeepSeek AI <br>
-  [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social&label=DeepSeek-R1+Stars)](https://github.com/deepseek-ai/DeepSeek-R1)
 - **[arXiv 2024]** <font color="red">(Cutting-edge Project)</font> [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) <br>
   DeepSeek-AI <br>
   [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social&label=DeepSeek-V3+Stars)](https://github.com/deepseek-ai/DeepSeek-V3)
