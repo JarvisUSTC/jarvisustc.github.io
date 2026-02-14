@@ -1,6 +1,7 @@
 # 🔥 News
 
 <ul>
+<li><b>2026.02</b>: 🔥 We release a blog about Experience-Driven Learning paradigm and share many interesting findings. 🚧 Please find all details in our <a href="https://www.notion.so/From-Amnesia-to-Mastery-How-Agents-Learn-Skills-In-Context-2ef968f937bc8068945fca6c69e659cf?source=copy_link"><b>notion blog</b></a>.</li>
 <li><b>2025.12</b>: 🎉 We are thrilled to announce that <a href="https://widesearch-seed.github.io/"><b>WideSearch</b></a> has been selected as a key benchmark for evaluating agent capabilities in <b><a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf">Seed 1.8</a></b>. We are also honored to contribute to the <b>Seed 1.8 API</b> as core developers of the new <b><a href="https://www.volcengine.com/docs/82379/2123215?lang=zh">context management feature</a></b>.</li>
 <li><b>2025.09</b>: 🔥 We introduce <a href="https://huggingface.co/papers/2509.09265"><b>EMPG</b></a>: a new framework that solves the credit assignment bottleneck in long-horizon agent training by fixing a fundamental flaw in policy gradients. 🚧 Please find all details in our <a href="https://empgseed-seed.github.io/"><b>project page</b></a>.</li>
 <li><b>2025.09</b>: 🎉 We're excited to have contributed to <a href="https://mcpmark.ai/"><b>MCP Mark</b></a>, a solid benchmark for stress-testing comprehensive MCP use. We have open-sourced all details in <a href="https://github.com/eval-sys/mcpmark/">Github</a>. Welcome to join us!</li>
